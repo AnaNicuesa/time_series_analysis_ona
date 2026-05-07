@@ -1,0 +1,29 @@
+my work
+mis notebooks
+W1_Project_Prep_EDA_clean_english.ipynb
+W2-feature_engineering_improved.ipynb
+w2_arima_model_improved.ipynb
+ExpSmooth_Models.ipynb---este es el del profe
+exp_smoothing_forecasting.ipynbsaltarte Prophet
+
+saltarte Statistical y prophet
+
+pero
+
+### Step 9 — Factors That Influence ARIMA Performance
+
+Before fitting, it helps to understand what can make ARIMA better or worse:
+
+| Factor | Effect |
+|---|---|
+| **p (AR order)** | Higher p = more past values used. Too high → overfitting |
+| **d (differencing)** | Must make the series stationary. Usually 0 or 1 |
+| **q (MA order)** | Higher q = uses more past errors. Too high → overfitting |
+| **Seasonal order (P,D,Q,s)** | Captures repeating cycles (e.g. every 7 days for weekly data) |
+| **Exogenous regressors** | External features (oil, holidays) that explain variation ARIMA cannot see on its own |
+| **Data length** | ARIMA needs sufficient history to estimate parameters reliably |
+| **Stationarity** | Non-stationary data leads to unreliable parameter estimates 
+
+
+|krystyna@faculty.masterschool.com
+monday wednedyes 

@@ -1,0 +1,18 @@
+[
+    "year",
+    "month",
+    "day_number",
+    "day_of_week_num",
+    "is_weekend",
+    "lag_1",
+    "lag_7",
+    "lag_14",
+    "lag_30",
+    "rolling_7d_mean",
+    "rolling_14d_mean",
+    "rolling_30d_mean",
+    "rolling_7d_std",
+    "dcoilwtico",
+    "oil_lag_1",
+    "oil_rolling_7d_mean"
+]

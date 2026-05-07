@@ -53,14 +53,18 @@ The final dataset includes:
 
 # Exploratory Data Analysis
 
-During exploratory analysis, several important business patterns were identified:
+During exploratory analysis and data preparation, several important issues and business patterns were identified:
 
-* sales were highly volatile,
-* weekends showed consistently higher demand,
-* sudden spikes and drops appeared frequently,
-* and demand behavior changed over time.
+- missing values existed in some external variables,
+- sales behavior was highly volatile,
+- weekends consistently showed higher demand,
+- sudden spikes and drops appeared frequently,
+- and demand patterns evolved over time.
+
+Missing values were carefully handled during preprocessing to maintain temporal consistency and avoid introducing leakage into the forecasting workflow.
 
 These observations motivated the creation of engineered features for the machine learning models.
+
 
 ---
 

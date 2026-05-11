@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+prophet
+torch
+mlflow
+streamlit
+jupyter
+notebook
+seaborn
+plotly

@@ -158,6 +158,12 @@ A Streamlit application was created to provide:
 
 ---
 
+# Main Notebooks
+
+* `W3-mlflow.ipynb` → MLflow experimentation, feature engineering, model comparison, and best model selection
+* `W3-streamlit.ipynb` → Streamlit application setup and forecasting interface
+
+
 # Repository Structure
 
 ```text
